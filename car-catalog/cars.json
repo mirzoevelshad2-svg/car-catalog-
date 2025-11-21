@@ -1,0 +1,17 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "type": "Sedan",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2019_Toyota_Corolla_Icon_Tech_VVT-i_1.8_Front.jpg"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "type": "SUV",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/2020_BMW_X5_xDrive30d_M_Sport_Automatic_3.0_Front.jpg"
+  }
+]
+
